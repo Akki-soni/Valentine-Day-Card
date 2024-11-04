@@ -30,7 +30,7 @@
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Notes-App-main.git>
+git clone <https://github.com/Akki-soni/Valentine-Day-Card.git>
 cd valentine-day card
 open index.html
 ```
