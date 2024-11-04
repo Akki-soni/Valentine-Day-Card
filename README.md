@@ -7,7 +7,7 @@
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h1 align="center">Notes App</h1>
+<h1 align="center">Valentine-Day Card</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
@@ -16,15 +16,8 @@
 </p>
 
 <p align="center">
-  This is a simple Notes App built using HTML, CSS, and JavaScript. It allows users to create, view, edit, and delete notes. The application saves the notes in the browser's local storage, so they persist even after the page is refreshed.
+  This is a simple Valentine-Day Card Using HTML, CSS, and JavaScript.
 </p>
-
-## 🚀 Features
-
-- **_Add new notes with a title and content._**
-- **_Edit or delete existing notes._**
-- **_Notes are saved automatically in local storage._**
-- **_Responsive design for mobile and desktop use._**
 
 ## 🛠️ Technologies Used
 
