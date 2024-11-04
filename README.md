@@ -45,11 +45,11 @@ open index.html
 
 ## 🌟 Screenshots
 
-![StopWatch Screenshot]()
+![StopWatch Screenshot](/V-C_Screenshot.png)
 
 ## 🔗 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://valentine-day-card-lemon.vercel.app/)
 
 ## 🤝 Contributing
 
