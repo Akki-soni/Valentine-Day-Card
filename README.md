@@ -25,20 +25,13 @@
 - **CSS**: Styling and layout of the app.
 - **JavaScript**: Functionality to add, edit, delete, and store notes using local storage.
 
-## 🚀 How to Use
-
-- **Add a Note**: Use the input fields to enter a title and content for your note, then click the "Add Note" button.
-- **View Notes**: The list of notes is displayed below the input fields.
-- **Edit a Note**: Click the "Edit" button on an existing note, update the title or content, and save the changes.
-- **Delete a Note**: Click the "Delete" button on an existing note to remove it from the list.
-
 ## 🚀 Project Setup
 
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
 git clone <https://github.com/Akki-soni/Notes-App-main.git>
-cd Notes App
+cd valentine-day card
 open index.html
 ```
 
@@ -50,20 +43,13 @@ open index.html
 └── script.js  # The JavaScript file for functionality
 ```
 
-## 🚀 Future Improvements
-
-- ***Add a search functionality to filter through notes.***
-- ***Implement categories or tags for notes organization.***
-- ***Sync notes with a backend server for cross-device access.***
-
-
 ## 🌟 Screenshots
 
-![StopWatch Screenshot](/images/NA_Screenshot.png)
+![StopWatch Screenshot]()
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://notes-app-main-eight.vercel.app/)
+[View Live Demo]()
 
 ## 🤝 Contributing
 
